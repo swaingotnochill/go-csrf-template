@@ -1,9 +1,10 @@
 package main
 
-import (
-
-)
+// GLOBALS
+var HOST = "http://localhost"
+var PORT = "9090"
 
 func main() {
-	
+
 }
+
